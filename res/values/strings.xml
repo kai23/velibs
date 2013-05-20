@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test de GoogleMaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="menu_search">Rechercher</string>
+	<string name="menu_refresh">Rafraichir</string>
+	<string name="menu_help">Aide</string>
+	<string name="menu_about">À Propos</string>
+	<string name="menu_settings">Paramêtres</string>
+</resources>
+
+
